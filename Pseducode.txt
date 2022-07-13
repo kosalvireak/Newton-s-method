@@ -1,0 +1,10 @@
+Input function
+Input first derivative
+input x1
+initialize step = 0
+while step < 5
+calculate fucntion by assign x1
+calculate first derivative by assign x1
+calculate x2 by x2 = x1 - fucntion(x1)/first derivative(x1)
+print(step, x)
+increase step by 1
